@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scrollview2</string>
+    <string name="fname">First name</string>
+    <string name="lname">Lastname</string>
+    <string name="email">email</string>
+    <string name="name">contact</string>
+</resources>

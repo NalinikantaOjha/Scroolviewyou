@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="edittext">
+        <item name="android:layout_width">@dimen/dp_100</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/dp_20</item>
+
+        <item name="android:background">@drawable/edittext</item>
+    </style>
+</resources>
